@@ -4,7 +4,7 @@
 //
 //  Created by Scholar on 7/27/22.
 //
-
+// this is just for github
 import UIKit
 
 class ViewController: UIViewController {
